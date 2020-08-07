@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shawara.v1.0)
+![](https://komarev.com/ghpvc/?username=shawara&label=Profile+views&color=brightgreen)
+
 <!--
 **shawara/shawara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
