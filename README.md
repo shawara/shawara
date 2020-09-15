@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=shawara&label=Profile+views&color=brightgreen)
+<!-- ![](https://komarev.com/ghpvc/?username=shawara&label=Profile+views&color=brightgreen) -->
+<a href="https://www.linkedin.com/in/shawara"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
 <!--
 **shawara/shawara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
